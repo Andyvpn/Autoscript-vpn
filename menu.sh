@@ -165,12 +165,12 @@ echo -e "\E[39;1;92m                    ⇱ STATUS SERVICE ⇲                  
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "${BICyan}┌──────────────────────────────────────────────────┐${NC}"
 
-echo -e "  ${BLUE}SSH      ${NC} : ${GREEN} ON ${NC}     "
-echo -e "  ${BLUE}CRON     ${NC} : ${GREEN} ON ${NC}     "
-echo -e "  ${BLUE}XRAY     ${NC} :  ${status_xray}      "
-echo -e "  ${BLUE}NGINX    ${NC} :  ${status_nginx}"
-echo -e "  ${BLUE}WEBSOCKET${NC} :  ${GREEN}ON${NC}     "
-echo -e "  ${BLUE}DROPBEAR ${NC} :  ${GREEN}ON${NC}     "
+echo -e "  ${GREEN}SSH      ${NC} : ${GREEN} ON ${NC}     "
+echo -e "  ${GREEN}CRON     ${NC} : ${GREEN} ON ${NC}     "
+echo -e "  ${GREEN}XRAY     ${NC} : ${GREEN} ON ${NC}     "
+echo -e "  ${GREEN}NGINX    ${NC} :  ${GREEN} ON ${NC}    "
+echo -e "  ${GREEN}WEBSOCKET${NC} :  ${GREEN}ON${NC}     "
+echo -e "  ${GREEN}DROPBEAR ${NC} :  ${GREEN}ON${NC}     "
 echo -e "${BICyan}└──────────────────────────────────────────────────┘${NC}"
 
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
