@@ -168,7 +168,7 @@ echo -e "${BICyan}┌───────────────────�
 echo -e "  ${GREEN}SSH      ${NC} : ${GREEN} ON ${NC}     "
 echo -e "  ${GREEN}CRON     ${NC} : ${GREEN} ON ${NC}     "
 echo -e "  ${GREEN}XRAY     ${NC} : ${GREEN} ON ${NC}     "
-echo -e "  ${GREEN}NGINX    ${NC} :  ${GREEN} ON ${NC}    "
+echo -e "  ${GREEN}NGINX    ${NC} : ${GREEN} ON ${NC}    "
 echo -e "  ${GREEN}WEBSOCKET${NC} :  ${GREEN}ON${NC}     "
 echo -e "  ${GREEN}DROPBEAR ${NC} :  ${GREEN}ON${NC}     "
 echo -e "${BICyan}└──────────────────────────────────────────────────┘${NC}"
