@@ -166,13 +166,18 @@ echo -e "\E[39;1;92m                    ⇱ STATUS SERVICE ⇲                  
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "${BICyan}┌──────────────────────────────────────────────────┐${NC}"
 
-echo -e "  ${GREEN}SSH      ${NC} : ${GREEN} ON ${NC}          ${LIGHT} Today  : $ttoday"
-echo -e "  ${GREEN}CRON     ${NC} : ${GREEN} ON ${NC}     
-echo -e "  ${GREEN}XRAY     ${NC} : ${GREEN} ON ${NC}          ${LIGHT} Monthly: $tmon"
-echo -e "  ${GREEN}NGINX    ${NC} : ${GREEN} ON ${NC}    
-echo -e "  ${GREEN}WEBSOCKET${NC} :  ${GREEN}ON${NC}     
-echo -e "  ${GREEN}DROPBEAR ${NC} :  ${GREEN}ON${NC}     
+echo -e "  ${GREEN}SSH      ${NC} : ${GREEN} ON ${NC}   "     
+echo -e "  ${GREEN}CRON     ${NC} : ${GREEN} ON ${NC}   "   
+echo -e "  ${GREEN}WEBSOCKET${NC} :  ${GREEN}ON${NC}    " 
+echo -e "  ${GREEN}DROPBEAR ${NC} :  ${GREEN}ON${NC}    " 
 echo -e "${BICyan}└──────────────────────────────────────────────────┘${NC}"
+
+ -e "${RED}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+echo -e "\E[39;1;92m                    ⇱ STATUS PENGUNAAN ⇲                        \E[0m"
+echo -e "${RED}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+echo -e "     ${BICyan} NGINX ${NC}: ${GREEN}$resngx         ${LIGHT} Today  : $ttoday"
+echo -e "     ${BICyan} XRAY  ${NC}: ${GREEN}$resv2r         ${LIGHT} Monthly: $tmon"
+echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "\E[39;1;92m                     ⇱ MENU SERVICE ⇲                         \E[0m"
