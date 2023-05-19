@@ -154,6 +154,7 @@ echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━�
 echo -e "${BICyan} "                                                                      
 echo -e "${BICyan} ⇲  ${BICyan}Use Core        :  ${BIYellow}Xray-core"    
 echo -e "${BICyan} ⇲  ${BICyan}Current Domain  :  ${BIYellow}$(cat /etc/xray/domain)${NC}" 
+echo -e "${BICyan} ⇲  ${BICyan}NS Domain       :  $Slow"
 echo -e "${BICyan} ⇲  ${BICyan}IP-VPS          :  ${BIYellow}$IPVPS${NC}"                  
 echo -e "${BICyan} ⇲  ${BICyan}ISP-VPS         :  ${BIYellow}$ISPVPS${NC}"   
 echo -e "${BICyan} ⇲  ${BICyan}TOTAL RAM       :  ${totalram}MB"
