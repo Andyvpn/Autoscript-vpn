@@ -157,7 +157,7 @@ echo -e "${BICyan} ⇲  ${BICyan}Current Domain  :  ${BIYellow}$(cat /etc/xray/d
 echo -e "${BICyan} ⇲  ${BICyan}NS Domain       :  $(cat /root/nsdomain)"
 echo -e "${BICyan} ⇲  ${BICyan}IP-VPS          :  ${BIYellow}$IPVPS${NC}"                  
 echo -e "${BICyan} ⇲  ${BICyan}ISP-VPS         :  ${BIYellow}$ISPVPS${NC}"   
-echo -e "${BICyan} ⇲  ${BICyan}TOTAL RAM       :  ${totalram}MB"
+echo -e "${BICyan} ⇲  ${BICyan}TOTAL RAM       :  $(($total_ram/1024))"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "\E[39;1;92m STATUS HARI INI  :  ⇱ Semoga Kamu Bahagia Dengan Dia ⇲             \E[0m"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
