@@ -173,6 +173,11 @@ echo -e "  ${GREEN}WEBSOCKET${NC} :  ${GREEN}ON${NC}    "
 echo -e "  ${GREEN}DROPBEAR ${NC} :  ${GREEN}ON${NC}    " 
 echo -e "${BICyan}└──────────────────────────────────────────────────┘${NC}"
 
+echo -e "${GREEN}┌──────────────────────────────────────────────────┐${NC}"
+echo -e "${GREEN}│  \033[0m ${BOLD}${YELLOW}SSH     VMESS       VLESS      TROJAN       SHADOWSOCKS$NC  $COLOR1"
+echo -e "${GREEN}│  \033[0m ${Blue} $ssh1        $vma           $vla          $tra               $ssa   $NC"
+echo -e "${GREEN}└──────────────────────────────────────────────────┘${NC}"
+
 echo -e "${RED}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo -e "\E[39;1;92m                    ⇱ STATUS PENGUNAAN ⇲                        \E[0m"
 echo -e "${RED}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
