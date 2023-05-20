@@ -37,7 +37,7 @@ wget -q -O /usr/bin/xp "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-
 wget -q -O /usr/bin/addhost  "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/addhost.sh"
 wget -q -O /usr/bin/genssl  "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/genssl.sh"
 wget -q -O /usr/bin/fix "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/cf.sh"
-wget -q -O /usr/bin/trialssh "https://raw.githubusercontent.com/Andyvpn/Autoscript-vpn/main/trialssh.sh"
+wget -q -O /usr/bin/trial "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/trial.sh"
 wget -q -O /etc/issue.net "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/issue.net"
 wget -q -O /root/versi "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/versibasic"
 wget -q -O /usr/bin/updatsc "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/update.sh"
@@ -69,7 +69,7 @@ chmod +x /usr/bin/menu-vless
 chmod +x /usr/bin/menu-vmess
 chmod +x /usr/bin/menu-ss
 chmod +x /usr/bin/updatsc
-chmod +x /usr/bin/trialssh
+chmod +x /usr/bin/trial
 chmod +x /usr/bin/menu-trojan
 #chmod +x /usr/bin/menu-trgo
 chmod +x /usr/bin/menu-ssh
