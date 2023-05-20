@@ -3,7 +3,7 @@
 ```
 * DNS-KLMPKSCRIPT
 ```
-![logo](https://raw.githubusercontent.com/Andyyudak1/Autoscript-vpn/main/sc.jpg
+![logo](https://raw.githubusercontent.com/Andyyudak1/Autoscript-vpn/main/sc1.jpg.png
 )
 ## Step 1 update your vps frist
 ```
