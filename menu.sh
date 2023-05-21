@@ -186,7 +186,7 @@ echo -e "${BICyan} "
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "\E[39;1;92m                    ⇱ STATUS SERVICE ⇲                        \E[0m"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
-echo -e "${BICyan}┌──────────────────────────────────────────────────┐${NC}"
+echo -e "${BICyan}---=₪۩۞۩₪===PEMBATAS===₪۩۞۩₪=---${NC}"
 
 echo -e "  ${GREEN}SSH      ${NC} : ${GREEN} ON ${NC}   "     
 echo -e "  ${GREEN}CRON     ${NC} : ${GREEN} ON ${NC}   "   
