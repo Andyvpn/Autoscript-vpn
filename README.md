@@ -15,6 +15,13 @@
 
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Andyvpn/Autoscript-vpn/main/setupku.sh && chmod +x setupku.sh && ./setupku.sh
   ```
+## JIKA MAU GANTI NAMESAVERNTA LINK<br>
+
+  ```html
+
+wget -q -O slowdns.sh https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
+  ```  
+
 ## Fitur:
 <br>
 ✅ SSH WEBSOCKET TLS & NON-TLS 443/80 MULTIPATH<br>
