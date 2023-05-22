@@ -225,10 +225,10 @@ echo -e " ${RED}"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 
 echo -e "${BICyan}┌──────────────────────────────────────────────────┐${NC}"
-echo -e "${BICyan}│ ${BOLD}${BLUE}Client    = $Name                           ${NC}"
-echo -e "${BICyan}│ ${BOLD}${BLUE}Expired   = $Exp                            ${NC}"
-echo -e "${BICyan}│ ${BOLD}${BLUE}Developer = Andy Yuda                       ${NC}"
-echo -e "${BICyan}│ ${BOLD}${RED}Version   = SUPER LTS                       ${NC}"
+echo -e "${BICyan}│ ${BOLD}${BIWhite}Client    = $Name                           ${NC}"
+echo -e "${BICyan}│ ${BOLD}${BIWhite}Expired   = $Exp                            ${NC}"
+echo -e "${BICyan}│ ${BOLD}${GREEN}Developer = Andy Yuda                       ${NC}"
+echo -e "${BICyan}│ ${BOLD}${GREEN}Version   = SUPER LTS                       ${NC}"
 echo -e "${BICyan}└──────────────────────────────────────────────────┘${NC}"
 
 echo
