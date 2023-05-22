@@ -1,7 +1,7 @@
 
 # SC By ANDYYUDA KLMPK ( ENGLISH )
 ```
-* DNS-KLMPKSCRIPT
+* MUTLOPORT
 ```
 ![logo](https://raw.githubusercontent.com/Andyvpn/Autoscript-vpn/main/sc1.jpg
 )
