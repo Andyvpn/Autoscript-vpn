@@ -1,7 +1,7 @@
 
 # SC By ANDYYUDA KLMPK ( ENGLISH )
 ```
-* MUTLOPORT
+* MULTIPORT
 ```
 ![logo](https://raw.githubusercontent.com/Andyvpn/Autoscript-vpn/main/sc1.jpg
 )
