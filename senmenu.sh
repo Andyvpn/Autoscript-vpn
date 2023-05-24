@@ -44,7 +44,7 @@ wget -q -O /usr/bin/updatsc "https://raw.githubusercontent.com/Andyvpn/Autoscrip
 wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/menu-backup.sh"
 wget https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/backup/set-br.sh
 bash set-br.sh
-chmod +x /usr/bin/menu-backup
+#chmod +x /usr/bin/menu-backup
 chmod +x /usr/bin/menu
 chmod +x /usr/bin/add-ws
 chmod +x /usr/bin/add-ssws
@@ -73,7 +73,7 @@ chmod +x /usr/bin/trialssh
 chmod +x /usr/bin/menu-trojan
 #chmod +x /usr/bin/menu-trgo
 chmod +x /usr/bin/menu-ssh
-chmod +x /usr/bin/menu-bckp
+chmod +x /usr/bin/menu-backup
 chmod +x /usr/bin/menu
 chmod +x /usr/bin/bckp
 chmod +x /usr/bin/wbm
