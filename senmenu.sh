@@ -75,7 +75,7 @@ chmod +x /usr/bin/menu-trojan
 chmod +x /usr/bin/menu-ssh
 chmod +x /usr/bin/menu-backup
 chmod +x /usr/bin/menu
-chmod +x /usr/bin/bckp
+#chmod +x /usr/bin/bckp
 chmod +x /usr/bin/wbm
 chmod +x /usr/bin/xp
 chmod +x /usr/bin/changer
