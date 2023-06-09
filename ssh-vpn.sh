@@ -20,7 +20,7 @@ commonname=none
 email=agunxz@themoon.my,id
 
 # simple password minimal
-wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/andristji/Xray-SSH/main/password.txt"
+wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/Andyvpn/Autoscript-vpn/main/password.txt"
 chmod +x /etc/pam.d/common-password
 
 # go to root
